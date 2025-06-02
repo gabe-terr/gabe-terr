@@ -38,7 +38,7 @@ Currently working as a Penetration Tester and expanding my skills through person
 - **BAS in Cybersecurity**, *May 2024*  
 - **Certifications:**  
   - CompTIA A+, Network+, Security+ — *Jan 2023*  
-  - TCM Security PJPT (Practical Junior Penetration Tester) — *Oct 2024 (In Progress)*
+  - TCM Security PJPT (Practical Junior Penetration Tester) — *Oct 2024*
 
 ---
 
