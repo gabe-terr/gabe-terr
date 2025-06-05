@@ -1,10 +1,10 @@
-# 👋 Gabriel Terrazas
+# 👋 Gabe T.
 
 🔐 **Cybersecurity Professional | Penetration Tester | Security Engineer-in-Training**  
 
 ---
 
-I'm Gabriel Terrazas — a passionate cybersecurity professional with hands-on experience in penetration testing, network security, and system administration. With a background in offensive and defensive security, I enjoy building secure systems, analyzing threats, and deploying tools that bridge red and blue teams.
+I'm Gabe — a passionate cybersecurity professional with hands-on experience in penetration testing, network security, and system administration. With a background in offensive and defensive security, I enjoy building secure systems, analyzing threats, and deploying tools that bridge red and blue teams.
 
 Currently working as a Penetration Tester and expanding my skills through personal projects, certifications, and continuous learning.
 
